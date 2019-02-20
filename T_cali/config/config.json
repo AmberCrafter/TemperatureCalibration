@@ -1,0 +1,6 @@
+{
+	"filepath":"../data/calibration raw data/Temperature/SN_T_20190123_001/",
+	"filename":"Temperature Chamber20190122_new.csv",
+	
+	"CalibrationPoint":[50,40,30,20,10,0]
+}
